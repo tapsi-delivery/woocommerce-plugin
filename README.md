@@ -1,2 +1,2 @@
 # Woocommerce Plugin
-Seamlessly integrate your WooCommerce website with Tapsi Pack Delivery!
+Seamlessly integrate your WooCommerce Shop with Tapsi Pack Delivery!
