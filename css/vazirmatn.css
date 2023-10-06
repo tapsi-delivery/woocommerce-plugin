@@ -1,0 +1,28 @@
+/* Import the Vazirmatn font files */
+@font-face {
+  font-family: 'Vazirmatn';
+  src: url('../fonts/Vazirmatn-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vazirmatn';
+  src: url('../fonts/Vazirmatn-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Define the font styles for your elements */
+body {
+  font-family: 'Vazirmatn', Arial, sans-serif; /* Use Vazirmatn as the primary font */
+}
+
+h1, h2, h3 {
+  font-family: 'Vazirmatn', Arial, sans-serif; /* Apply Vazirmatn to headings */
+  font-weight: bold; /* You can specify different weights as needed */
+}
+
+/* Update any other font styles in your template */
+
+/* ... */

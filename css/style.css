@@ -39,7 +39,7 @@
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, blockquote, th, td {
     margin: 0;
     padding: 0;
-    direction: ltr;
+    direction: rtl;
 }
 
 body {
@@ -430,7 +430,7 @@ section {
 }
 
 .play-icon:before {
-    font-family: 'fontawesome';
+    font-family: 'vazirmatn';
     content: '\f144';
     speak: none;
     font-size: 74px;
@@ -566,7 +566,7 @@ section {
 }
 
 #nav-trigger span:after {
-    font-family: "fontAwesome";
+    font-family: "vazirmatn";
     display: inline-block;
     width: 38px;
     height: 71px;
@@ -1115,7 +1115,7 @@ blockquote {
         cursor: pointer;
         text-align: center;
         color: #fff;
-        font-family: "fontawesome";
+        font-family: "vazirmatn";
         font-size: 22px;
         opacity: 0.5;
         -webkit-transition: all 0.3s ease-out;
@@ -1164,7 +1164,7 @@ blockquote {
 @media all {
     .featherlight-next,
     .featherlight-previous {
-        font-family: "fontawesome";
+        font-family: "vazirmatn";
         font-size: 22px;
         display: block;
         position: absolute;
@@ -1354,7 +1354,7 @@ blockquote {
 }
 
 #slvj-close-icon:before {
-    font-family: "fontawesome";
+    font-family: "vazirmatn";
     color: #fff;
     content: '\f00d';
     font-size: 22px;
@@ -1541,7 +1541,7 @@ blockquote {
 
 #scrollUp:before {
     background: #ccc;
-    font-family: "fontawesome";
+    font-family: "vazirmatn";
     font-size: 2.4em;
     font-style: normal;
     font-weight: normal;
